@@ -1,0 +1,2 @@
+syntax error : unexpected token i in json at position 1 in solidity
+solution : always put string in "" while inputting in set()
